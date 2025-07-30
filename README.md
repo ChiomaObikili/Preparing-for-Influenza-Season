@@ -1,6 +1,5 @@
 <h1>Preparing for Influenza Season Project</h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
 <h2>Description</h2>
 The united States has an influenza season where more people than usual suffer from the flu and end up in the hospitals
