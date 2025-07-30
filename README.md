@@ -10,8 +10,8 @@ This project was completed over 2 weeks as part of a data analytics capstone. It
 <h2>My Role</h2>
 Data Analyst – I led the entire analysis, including data cleaning, time series forecasting and building Tableau dashboards.
 <h2>Data Source</h2>
-U.S. Census Bureau (Population data by geography, time, age, and gender)
-CDC Influenza deaths by geography
+U.S. Census Bureau (Population data by geography, time, age, and gender) and
+CDC (Influenza deaths by geography)
 <h2>Tools Used</h2>
 Excel (Data cleaning, early analysis)
 Tableau (Data visualization, dashboard development)
